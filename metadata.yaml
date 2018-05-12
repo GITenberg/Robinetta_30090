@@ -1,0 +1,52 @@
+_repo: Robinetta_30090
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Findlater, Jane Helen
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '34362'
+    url: http://www.gutenberg.org/2009/agents/34362
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Findlater
+  - agent_name: McAulay, Allan
+    aliases:
+    - Macaulay, Allan
+    - Stewart, Charlotte
+    birthdate: 1863
+    deathdate: 1918
+    gutenberg_agent_id: '34363'
+    url: http://www.gutenberg.org/2009/agents/34363
+  - agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Wiggin, Samuel Bradley, Mrs.
+    - Riggs, Kate Douglas Smith Wiggin
+    - Smith, Kate Douglas
+    - Riggs, George Christopher, Mrs.
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+  - agent_name: Findlater, Mary
+    birthdate: 1865
+    deathdate: 1963
+    gutenberg_agent_id: '34361'
+    url: http://www.gutenberg.org/2009/agents/34361
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Findlater
+description: ''
+gutenberg_issued: '2009-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: Robinetta
+url: http://www.gutenberg.org/ebooks/30090
