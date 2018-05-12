@@ -37,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34361
     wikipedia: http://en.wikipedia.org/wiki/Mary_Findlater
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30090#Robinetta
 gutenberg_issued: '2009-09-25'
 gutenberg_type: Text
 identifiers:
